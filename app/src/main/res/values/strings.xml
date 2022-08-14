@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Project-2-RecyclerView-App</string>
+    <string name="app_name">Plant Garden </string>
+    <string name="a1">Bromeliad Vriesea Intenso Orange</string>
+    <string name="a2">Monstera Deliciosa</string>
+    <string name="a3">ZZ plant</string>
+    <string name="a4">Button Fern</string>
+    <string name="a5">Peperomia Obtusifolia</string>
+    <string name="a6"> Bromeliad Antonio Pink</string>
+
+
+
 </resources>
